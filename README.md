@@ -47,14 +47,11 @@ To utilize this project:
 
 ### Contributors
 
-- [Arya Koureshi]
+- Arya Koureshi
 
 ### License
 
 This project is licensed under the [License Name] License - see the [LICENSE.md](link) file for details.
 
-### Acknowledgements
-
-Special thanks to [Acknowledged Individuals or Organizations] for their contributions and support.
 
 Feel free to reach out with any questions or feedback!
